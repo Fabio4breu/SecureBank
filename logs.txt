@@ -1,0 +1,11 @@
+logs.txt[25/06/2026 14:30:34] Login realizado por admin
+[25/06/2026 14:31:45] Usuário criado: visita
+[25/06/2026 14:32:00] Usuário removido: visita
+[25/06/2026 14:32:33] Usuário criado: visita
+[25/06/2026 14:34:47] Usuário bloqueado: visita
+[25/06/2026 14:43:22] Login realizado por admin
+[25/06/2026 14:45:16] Usuário criado: fabio
+[25/06/2026 14:45:35] Usuário removido: fabio
+[26/06/2026 18:47:52] Login realizado (admin)
+[26/06/2026 18:49:29] Login realizado (admin)
+[26/06/2026 19:19:05] Login realizado (admin)

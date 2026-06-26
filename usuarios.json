@@ -1,0 +1,17 @@
+[
+    {
+        "login": "admin",
+        "senha": "123",
+        "tipo": "ADMIN"
+    },
+    {
+        "login": "cliente",
+        "senha": "456",
+        "tipo": "CLIENTE"
+    },
+    {
+        "login": "visita",
+        "senha": "123",
+        "tipo": "BLOQUEADO"
+    }
+]
